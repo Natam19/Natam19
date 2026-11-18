@@ -16,7 +16,7 @@
 - Construyo pensando en seguridad: **ISO/IEC 27001**, modelado de amenazas **PASTA + STRIDE**, OWASP.
 - Integro **IA** en productos reales, de modelos predictivos a asistentes en streaming.
 - Desarrolladora web en **EH2 Ingeniería** (Málaga, España · remoto) y ex monitora de IA y Ciberseguridad en **MinTIC**.
-- Ahora mismo: buscando mi **práctica profesional** en datos, BI o ciberseguridad.
+- Ahora mismo: buscando mi **práctica profesional** en datos y BI, desarrollo de software o ciberseguridad, con disponibilidad inmediata en Bogotá.
 
 ---
 
