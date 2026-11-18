@@ -25,7 +25,7 @@
 | Proyecto | Qué es | Stack |
 |---|---|---|
 | **[ISO_SECURE](https://github.com/Agustin1231/iso_secure)** | Plataforma SGSI conforme a ISO/IEC 27001:2022: KPIs, incidentes, controles, riesgos y auditoría. Modelado de amenazas PASTA + STRIDE. | React · FastAPI · PostgreSQL · JWT + RBAC |
-| **[HealthAI Breast BDI](https://github.com/Natam19/healthai-breast-bdi)** | Predicción de riesgo de cáncer de mama con el dataset BCSC (6.7M de mamografías) en Spark, dashboard epidemiológico y despliegue en AWS. | Spark · Scikit-learn · Power BI · AWS · Docker |
+| **[HealthAI Breast BDI](https://github.com/Natam19/healthai-breast-bdi)** | Predicción de riesgo de cáncer de mama con el dataset BCSC (6.7M de mamografías) en Spark, dashboard epidemiológico y despliegue en AWS. [Ver app](https://bigdata.agustinynatalia.site) | Spark · Scikit-learn · Power BI · AWS · Docker |
 | **[Pulso](https://github.com/Agustin1231/pulso)** | PWA de salud cardiovascular con análisis por IA en streaming, sin cuenta ni datos personales. Proyecto Integrador con Agustín Peralta. [Ver app](https://pulso.agustinynatalia.site) | React · Recharts · Claude · Supabase |
 | **[Test Vocacional](https://github.com/Agustin1231/test-vocacional)** | App que orienta a estudiantes hacia programas académicos según su perfil. Hice el **frontend en Angular**. | Angular · .NET 8 · LangGraph |
 | **[Prep Saber Pro](https://github.com/Natam19/pruebaspro)** | App para preparar el Saber Pro del ICFES: simulacros, calificación, revisión y progreso. | React · Vite · Docker |
